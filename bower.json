@@ -1,8 +1,8 @@
 {
-  "name": "tink-skeleton-angular",
+  "name": "tink-back-to-top-angular",
   "version": "1.0.0",
   "main": [
-    "dist/tink-skeleton-angular.js"
+    "dist/tink-back-to-top-angular.js"
   ],
   "ignore": [
     ".*",
