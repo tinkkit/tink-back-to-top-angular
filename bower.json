@@ -1,6 +1,6 @@
 {
   "name": "tink-back-to-top-angular",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": [
     "dist/tink-back-to-top-angular.js"
   ],
