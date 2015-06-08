@@ -1,6 +1,6 @@
 # Tink back to top Angular directive
 
-v1.0.1
+v1.0.2
 
 ## What is this repository for?
 
