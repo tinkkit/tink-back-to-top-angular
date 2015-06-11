@@ -1,6 +1,6 @@
 # Tink back to top Angular directive
 
-v1.0.2
+v1.0.3
 
 ## What is this repository for?
 
@@ -32,14 +32,14 @@ Tink is an in-house developed easy-to-use front-end framework for quick prototyp
    `angular.module('myApp', ['tink.backtotop']);`
 
 
+
 ----------
+
 
 
 ## How to use
 
 ### tink-back-to-top
-
-### Component
 
 To use this directive you have to add `tink-back-to-top` to a button in your html page.
 
@@ -52,6 +52,10 @@ To use this directive you have to add `tink-back-to-top` to a button in your htm
 Attr | Type | Default | Details
 --- | --- | --- | ---
 data-offset | `number` | `300` | The height in pixels, measured from the top, when the button will be visible.
+
+###Example
+
+A working example can be found in [the Tink documentation](http://tink.digipolis.be/#/docs/directives/back-to-top#example).
 
 ## Contribution guidelines
 
