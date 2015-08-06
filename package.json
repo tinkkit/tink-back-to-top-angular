@@ -1,7 +1,7 @@
 {
   "name": "tink-back-to-top-angular",
   "description": "Tink back to top Angular directive",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "repository": {
     "type": "git",
     "url": "git@github.com:tinkkit/tink-back-to-top-angular.git"
